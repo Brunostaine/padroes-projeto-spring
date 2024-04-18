@@ -1,4 +1,4 @@
-# Padrões de Projetos na Prática com Java
+# Padrões de Projetos na Prática com Spring
 
 ![Badge Status](https://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=green&style=for-the-badge)
 
